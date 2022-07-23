@@ -70,7 +70,7 @@ dvc repro
 - [Erica Konadu Antwi](https://github.com/ericakonadu)
 - [Mariam](https://github.com/mariam-cl)
 - [Tcharrison](https://github.com/tcharrisson)
-- Mariam
+- Mariam Aramide Ambali
 - [Selasi Ayittah Randy](https://github.com/Selasi3)
 
 ## 📖 Further reading
