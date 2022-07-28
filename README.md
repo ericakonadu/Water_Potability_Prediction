@@ -82,6 +82,7 @@ dvc repro
 
 ## 📖 Further reading
 
+- [Medium Article](https://medium.com/@ericakonadu123/water-potability-prediction-using-ensembling-methods-machine-learning-2f1fba13d377)
 -  <a href="references\metadata.md"> Metadata </a>
 -  [project repro](https://github.com/akinyosoyeisaac/Water_Portability_Prediction)
 - [project website(fastapi)](https://water-potability-pred-01.herokuapp.com/docs#/default/prediction_predict_post)
